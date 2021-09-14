@@ -22,8 +22,8 @@ O site é composto pelas seguintes seções:
 - **Footer**
 
 ---
-##  Tecnologia Utilizada
-**Para o desenvolvimento deste projeto Foi utilizado o ReactJS.**
+##  Tecnologias Utilizadas
+**Para o desenvolvimento deste projeto Foi utilizado o ReactJS, Javascript, HTML e CSS.**
 
 ---
 
